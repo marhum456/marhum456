@@ -1,6 +1,6 @@
 # Muhammad Arhum's Portfolio
 
-![Profile Image](https://github.com/marhum456/marhum456/raw/main/MyProfile.png)
+![Profile Image](https://github.com/marhum456/marhum456/raw/main/MyProfileimg.png)
 
 ## 👋 Hi there! I'm Muhammad Arhum
 
