@@ -27,28 +27,24 @@ I am an MS Computer Science student with a deep passion for **Data Science**, **
 
 
 ### 📝 **Freelance Software Documentation Specialist (2021-Present)**
-- Created technical documentation and reports using IEEE templates, ensuring high standards for structure and formatting in academic and professional projects.
-- Designed and implemented various UML diagrams (Class, Sequence, Use Case, etc.) to visualize and model system architectures, workflows, and interactions between components.
-- Wrote comprehensive test case tables for software testing to ensure quality assurance and verify that all functionalities of the system were working as intended.
-- Documented detailed Use Case Tables to clearly define system interactions ensuring clarity in functional requirements for developers and stakeholders.
+- Created technical documentation and reports using IEEE templates.
+- Designed and implemented various UML diagrams (Class, Sequence, Use Case, etc.).
+- Wrote comprehensive test case tables for software testing to ensure quality assurance.
+- Documented detailed Use Case Tables to clearly define system interactions.
 - Simplified complex technical concepts and processes, transforming them into user-friendly documentation to improve usability and understanding.
 
 ---
 
 ## 💼 Projects
 
-Here are some of the projects that I have worked on:
-
-### 1. **Mobile Application (Final Year Project)**
-- For my **final year project**, I developed **SpotHub**, a mobile application built using **Flutter**, designed to help users discover and register food points in their area. The app provides a platform for food vendors to register their outlets, allowing users to explore nearby food points, check their menus, and see ratings also. 
+### **Mobile Application (Final Year Project)**
+- For my **final year project**, I developed **SpotHub**, a mobile application built using **Flutter**, designed to help users discover and register food points in their area. The app provides a platform for food vendors to register their outlets, allowing users to explore nearby food points, check their menus, and give ratings also. 
 
 ---
 
 ## 🎓 **Thesis: Enhancing Vulnerability Detection in Blockchain Smart Contracts**
 
 I am currently working on my **Master's Thesis** focused on **Blockchain Smart Contract Security**, specifically on **enhancing vulnerability detection** in smart contracts. The goal of my research is to identify and mitigate common security vulnerabilities in smart contracts, making blockchain-based applications safer.
-
-### Research Methodology:
 
 In this research, I used the following tools and datasets to perform vulnerability detection and consensus analysis:
 
@@ -74,9 +70,13 @@ This thesis aims to contribute to the improvement of blockchain system security 
 ---
 
 ## 📈 Certifications
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/professional-certificates/google-data-analytics)  <!-- Replace with actual link -->
-- [IBM Machine Learning Professional Certificate](https://www.coursera.org/professional-certificates/ibm-machine-learning)  <!-- Replace with actual link -->
-- [Coursera Data Science Specialization](https://www.coursera.org/specializations/data-science)  <!-- Replace with actual link -->
+- [AI Essentials – Google](https://www.coursera.org/account/accomplishments/verify/5ZTH09N0GIE7)  <!-- Replace with actual link -->
+- [AI For Everyone – Coursera](https://www.coursera.org/account/accomplishments/verify/R33DKPB9LS73)  <!-- Replace with actual link -->
+- [Introduction to Data Analytics – IBM](https://www.coursera.org/account/accomplishments/verify/0D09C8DJV82T)  <!-- Replace with actual link -->
+- [Introduction to Software Engineering – IBM](https://www.coursera.org/account/accomplishments/verify/YQMPV7QDK0OP)  <!-- Replace with actual link -->
+- [Data Analytics Essentials – Coursera](https://www.credly.com/badges/3bc7bc40-daf3-4ac9-9048-b42e4a2055ef)  <!-- Replace with actual link -->
+- [Software Engineering Essentials – Coursera](https://www.credly.com/badges/3fb8de74-2916-46e1-ba58-57dcb5222dbc)  <!-- Replace with actual link -->
+- [Full-Stack Web Developement- Corvit, Lahore](https://www.coursera.org/specializations/data-science)  <!-- Replace with actual link -->
 
 ---
 
