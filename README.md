@@ -1,7 +1,5 @@
 # Muhammad Arhum's Portfolio
 
-![Profile Image](https://github.com/marhum456/marhum456/raw/main/MyProfileimg.png)
-
 ## 👋 Hi there! I'm Muhammad Arhum
 
 I am an MS Computer Science student with a deep passion for **Data Science**, **Machine Learning**, **AI** and **Data Analytics**. I'm dedicated to using data-driven approaches to solve real-world problems and uncover meaningful insights.
