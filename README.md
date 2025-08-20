@@ -1,6 +1,6 @@
 # Muhammad Arhum's Portfolio
 
-![Profile Image](https://www.example.com/profile-image.jpg)  <!-- Add your own profile image URL -->
+![Profile Image](https://github.com/your-username/your-repository-name/raw/main/MyProfile.png)
 
 ## 👋 Hi there! I'm Muhammad Arhum
 
