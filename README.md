@@ -38,7 +38,7 @@ I am an MS Computer Science student with a deep passion for **Data Science**, **
 ## 💼 Projects
 
 ### **Mobile Application (Final Year Project)**
-- For my **final year project** of Bachelor's in Software Engineering, I developed **SpotHub**, a mobile application built using **Flutter**, designed to help users discover and register food points in their area. The app provides a platform for food vendors to register their outlets, allowing users to explore nearby food points, check their menus, and give ratings also. 
+For my **final year project** of Bachelor's in Software Engineering, I developed **SpotHub**, a mobile application built using **Flutter**, designed to help users discover and register food points in their area. The app provides a platform for food vendors to register their outlets, allowing users to explore nearby food points, check their menus, and give ratings also. 
 
 ---
 
