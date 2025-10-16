@@ -40,16 +40,7 @@ I am an MS Computer Science student with a deep passion for **Data Science**, **
   - Text Preprocessing
   - TF-IDF
   - Bag-of-Words
-
-- **Certifications**: 
-  - AI Essentials – Google
-  - AI For Everyone – Coursera
-  - Introduction to Data Analytics – IBM
-  - Introduction to Software Engineering – IBM
-  - Data Analytics Essentials – Coursera
-  - Software Engineering Essentials – Coursera
-  - Introduction to Data Science-Cisco Networking Academy
-
+    
 ---
 
 ## 📚 Education and Experience
