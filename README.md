@@ -4,9 +4,43 @@
 
 I am an MS Computer Science student with a deep passion for **Data Science**, **Machine Learning**, **AI** and **Data Analytics**. I'm dedicated to using data-driven approaches to solve real-world problems and uncover meaningful insights.
 
-🎯 **Skills & Expertise**
-- **Programming Languages**: Python
-- **Tools**: Pandas, NumPy, Matplotlib, Jupyter, GitHub, Google Colab
+# 🎯 Skills & Expertise
+
+## Programming Languages:
+- Python
+
+## Libraries & Frameworks:
+- Machine Learning: Scikit-learn, TensorFlow/PyTorch (neural networks)
+- Computer Vision: OpenCV, PIL
+- Data Science: Pandas, NumPy, Matplotlib, Seaborn
+- NLP: NLTK, TextBlob
+
+## Tools & Platforms:
+- Jupyter Notebook/Lab
+- GitHub
+- Google Colab
+- Git
+
+## Technical Expertise:
+
+- **Machine Learning**: 
+  - SVM
+  - Naive Bayes
+  - Logistic Regression
+  - Neural Networks
+  - Backpropagation
+
+- **Computer Vision**: 
+  - Image Thresholding
+  - Edge Detection (Sobel, Prewitt, Roberts)
+  - Connected Components Analysis
+
+- **NLP**: 
+  - Sentiment Analysis
+  - Text Preprocessing
+  - TF-IDF
+  - Bag-of-Words
+
 - **Certifications**: 
   - AI Essentials – Google
   - AI For Everyone – Coursera
@@ -14,6 +48,7 @@ I am an MS Computer Science student with a deep passion for **Data Science**, **
   - Introduction to Software Engineering – IBM
   - Data Analytics Essentials – Coursera
   - Software Engineering Essentials – Coursera
+  - Introduction to Data Science-Cisco Networking Academy
 
 ---
 
