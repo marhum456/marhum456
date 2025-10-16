@@ -63,9 +63,12 @@ I am an MS Computer Science student with a deep passion for **Data Science**, **
 
 ## 💼 Projects
 
-### **Mobile Application (Final Year Project)**
-For my **final year project** of Bachelor's in Software Engineering, I developed **SpotHub**, a mobile application built using **Flutter**, designed to help users discover and register food points in their area. The app provides a platform for food vendors to register their outlets, allowing users to explore nearby food points, check their menus, and give ratings also. 
+## Project 1: Sentiment Analysis with TextBlob
+- **Description**: Implemented a rapid, rule-based sentiment analysis system using TextBlob to classify tweets. Processed and analyzed over 5,600 tweets, successfully categorizing them into Positive, Neutral, and Negative sentiments without requiring machine learning models.
 
+## Project 2: ML Model Classification (Global Warming Belief Dataset)
+- **Description**: Systematically compared SVM, Naive Bayes, and Logistic Regression models with TF-IDF and Bag-of-Words feature extraction to classify tweets based on belief in global warming. Achieved 68% accuracy, identifying Logistic Regression as the optimal model.
+  
 ---
 
 ## 🎓 **Thesis: Enhancing Vulnerability Detection in Blockchain Smart Contracts**
