@@ -2,7 +2,7 @@
 
 ## 👋 Hi there! I'm Muhammad Arhum
 
-I am an MS Computer Science student with a deep passion for **Data Science**, **Machine Learning**, **AI** and **Data Analytics**. I'm dedicated to using data-driven approaches to solve real-world problems and uncover meaningful insights.
+I am a Graduate Software Engineer and have completed my MS in Computer Science, with a strong passion for **Data Science**, **Machine Learning**, **AI**, and **Data Analytics**. I am dedicated to using data-driven approaches to solve real-world problems and uncover meaningful insights.
 
 # 🎯 Skills & Expertise
 
@@ -46,7 +46,7 @@ I am an MS Computer Science student with a deep passion for **Data Science**, **
 ## 📚 Education and Experience
 
 ### 🎓 **Master’s in Computer Science**
-- **University of Gujrat**, **2023-2025(expected)** 
+- **University of Gujrat**, **2023-2025** 
 
 ### 🎓 **Bachelor's in Software Engineering**
 - **University of Gujrat**, **2019-2023** 
@@ -73,8 +73,9 @@ I am an MS Computer Science student with a deep passion for **Data Science**, **
 
 ## 🎓 **Thesis: Enhancing Vulnerability Detection in Blockchain Smart Contracts**
 
-I am currently working on my **Master's Thesis** focused on **Blockchain Smart Contract Security**, specifically on **enhancing vulnerability detection** in smart contracts. The goal of my research is to identify and mitigate common security vulnerabilities in smart contracts, making blockchain-based applications safer.
-This thesis aims to contribute to the improvement of blockchain system security by enhancing the detection of vulnerabilities and ensuring the safety of decentralized applications.
+I completed my **Master’s Thesis** in the area of **Blockchain Smart Contract Security**, with a focus on enhancing vulnerability detection in smart contracts. My research aimed to identify and mitigate common security weaknesses to make blockchain-based applications more secure.
+
+The main objective of my thesis was to contribute to the improvement of blockchain system security by improving vulnerability detection techniques and supporting the development of safer decentralized applications.
 
 ---
 
