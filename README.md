@@ -2,7 +2,7 @@
 
 ## 👋 Hi there! I'm Muhammad Arhum
 
-I am a Graduate Software Engineer and have completed my Masters of Science in Computer Science, with a strong passion for **Data Science**, **Machine Learning** and **AI**. I am dedicated to using data-driven approaches to solve real-world problems and uncover meaningful insights.
+I hold a Master’s degree in Computer Science with a focused interest in Data Science, Machine Learning, and AI-driven systems. My goal is to design and implement intelligent, data-centric solutions that transform raw data into strategic insights and measurable outcomes.
 
 ## 🎯 Core Competencies
 
