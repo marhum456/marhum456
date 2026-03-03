@@ -2,75 +2,91 @@
 
 ## 👋 Hi there! I'm Muhammad Arhum
 
-I am a Graduate Software Engineer and have completed my MS in Computer Science, with a strong passion for **Data Science**, **Machine Learning**, **AI**, and **Data Analytics**. I am dedicated to using data-driven approaches to solve real-world problems and uncover meaningful insights.
+I am a Graduate Software Engineer and have completed my Masters of Science in Computer Science, with a strong passion for **Data Science**, **Machine Learning** and **AI**. I am dedicated to using data-driven approaches to solve real-world problems and uncover meaningful insights.
 
-# 🎯 Skills & Expertise
+## 🎯 Core Competencies
 
-## Programming Languages:
+### 🐍 Programming
 - Python
 
-## Libraries & Frameworks:
-- Machine Learning: Scikit-learn, TensorFlow/PyTorch (neural networks)
-- Computer Vision: OpenCV, PIL
-- Data Science: Pandas, NumPy, Matplotlib, Seaborn
-- NLP: NLTK, TextBlob
+### 📊 Data Science & Analysis
+- Pandas  
+- NumPy  
+- Exploratory Data Analysis (EDA)  
+- Feature Engineering  
+- Statistical Analysis  
 
-## Tools & Platforms:
-- Jupyter Notebook/Lab
-- GitHub
-- Google Colab
-- Git
+### 🤖 Machine Learning
+- Scikit-learn  
+- XGBoost  
+- LightGBM  
+- Model Evaluation (R², MAE, RMSE, Accuracy)  
+- Cross Validation  
+- Hyperparameter Tuning  
+- SHAP (Model Interpretability)  
+- Time-Series Forecasting  
 
-## Technical Expertise:
+### 🧠 Natural Language Processing
+- NLTK  
+- TextBlob  
+- TF-IDF  
+- Bag-of-Words  
+- Sentiment Analysis  
+- Text Preprocessing  
 
-- **Machine Learning**: 
-  - SVM
-  - Naive Bayes
-  - Logistic Regression
-  - Neural Networks
-  - Backpropagation
+### 📈 Data Visualization
+- Matplotlib  
+- Seaborn  
+- Plotly  
+- Streamlit (Interactive Dashboards)  
 
-- **Computer Vision**: 
-  - Image Thresholding
-  - Edge Detection (Sobel, Prewitt, Roberts)
-  - Connected Components Analysis
-
-- **NLP**: 
-  - Sentiment Analysis
-  - Text Preprocessing
-  - TF-IDF
-  - Bag-of-Words
-    
----
-
-## 📚 Education and Experience
-
-### 🎓 **Master’s in Computer Science**
-- **University of Gujrat**, **2023-2025** 
-
-### 🎓 **Bachelor's in Software Engineering**
-- **University of Gujrat**, **2019-2023** 
-
-
-### 📝 **Freelance Software Documentation Specialist (2021-Present)**
-- Created technical documentation and reports using IEEE templates.
-- Designed and implemented various UML diagrams (Class, Sequence, Use Case, etc.).
-- Wrote comprehensive test case tables for software testing to ensure quality assurance.
-- Documented detailed Use Case Tables to clearly define system interactions.
-- Simplified complex technical concepts and processes, transforming them into user-friendly documentation to improve usability and understanding.
+### 🛠 Tools & Workflow
+- Git & GitHub  
+- GitHub Actions (CI/CD & Automation)  
+- Jupyter Notebook / Jupyter Lab  
+- Google Colab  
+- MongoDB (Data Storage & Model Registry)  
 
 ---
 
-## 💼 Projects
+## 💼 Featured Projects
 
-## Project 1: Sentiment Analysis with TextBlob
-- **Description**: Implemented a rapid, rule-based sentiment analysis system using TextBlob to classify tweets. Processed and analyzed over 5,600 tweets, successfully categorizing them into Positive, Neutral, and Negative sentiments without requiring machine learning models.
+### 🔹 1. Automated AQI Prediction System (72-Hour Forecast)
 
-## Project 2: ML Model Classification (Global Warming Belief Dataset)
-- **Description**: Systematically compared SVM, Naive Bayes, and Logistic Regression models with TF-IDF and Bag-of-Words feature extraction to classify tweets based on belief in global warming. Achieved 68% accuracy, identifying Logistic Regression as the optimal model.
+**Problem:** Air pollution monitoring and short-term forecasting for proactive decision-making.  
+
+**Solution:**  
+Developed an end-to-end machine learning pipeline to predict AQI up to 72 hours ahead.
+
+#### Key Highlights:
+- Engineered 29 time-series features  
+- Trained and evaluated Random Forest, XGBoost, and LightGBM models  
+- Achieved **R² > 0.70**  
+- Automated hourly data ingestion  
+- Implemented daily model retraining using GitHub Actions  
+- Built a real-time interactive Streamlit dashboard  
+- Applied SHAP for model explainability  
+
+---
+
+### 🔹 2. NLP Sentiment Analysis System (5,600+ Tweets)
+
+**Objective:** Extract public sentiment insights from Twitter data.
+
+#### Approach:
+- Performed text preprocessing (tokenization, stopword removal, lemmatization)  
+- Applied TextBlob polarity & subjectivity scoring  
+- Categorized sentiment into Positive, Neutral, Negative  
+- Visualized sentiment distribution trends  
+
+#### Results:
+- **44.1% Positive**  
+- **48.4% Neutral**  
+- **7.4% Negative**
+
+  ---
+
   
----
-
 ## 🎓 **Thesis: Enhancing Vulnerability Detection in Blockchain Smart Contracts**
 
 I completed my **Master’s Thesis** in the area of **Blockchain Smart Contract Security**, with a focus on enhancing vulnerability detection in smart contracts. My research aimed to identify and mitigate common security weaknesses to make blockchain-based applications more secure.
