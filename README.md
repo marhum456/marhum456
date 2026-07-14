@@ -2,7 +2,7 @@
 
 ## 👋 Hi there! I'm Muhammad Arhum
 
-I hold a Master’s degree in Computer Science with a focused interest in Data Science, Machine Learning, and AI-driven systems. My goal is to design and implement intelligent, data-centric solutions that transform raw data into strategic insights and measurable outcomes.
+I hold a Master’s degree in Computer Science with a focused interest in Machine Learning, and AI-driven systems. My goal is to design and implement intelligent, data-centric solutions that transform raw data into strategic insights and measurable outcomes.
 
 ## 🎯 Core Competencies
 
