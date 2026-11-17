@@ -21,99 +21,109 @@ transforming data into meaningful insights.
 
 ------------------------------------------------------------------------
 
+
 ## 🧰 Tech Stack & Skills
 
-```{=html}
 <p align="center">
-```
-`<strong>`{=html}Technologies I use to build AI-powered applications,
-backend systems, and data-driven solutions`</strong>`{=html}
-```{=html}
+  <strong>Technologies I use to build AI-powered applications, backend systems, and data-driven solutions.</strong>
 </p>
-```
+
 ### 🐍 Programming & Backend Development
 
-```{=html}
 <p align="center">
-```
-`<a href="https://www.python.org/">`{=html}`<img src="https://skillicons.dev/icons?i=python" height="55" alt="Python" />`{=html}`</a>`{=html}
-`<a href="https://fastapi.tiangolo.com/">`{=html}`<img src="https://skillicons.dev/icons?i=fastapi" height="55" alt="FastAPI" />`{=html}`</a>`{=html}
-`<a href="https://www.mongodb.com/">`{=html}`<img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="MongoDB" />`{=html}`</a>`{=html}
-`<a href="https://git-scm.com/">`{=html}`<img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" />`{=html}`</a>`{=html}
-`<a href="https://github.com/">`{=html}`<img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" />`{=html}`</a>`{=html}
-```{=html}
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />
+  </a>
+  <a href="https://fastapi.tiangolo.com/">
+    <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="FastAPI" />
+  </a>
+  <a href="https://www.mongodb.com/">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="MongoDB" />
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" height="50" alt="Git" />
+  </a>
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+  </a>
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />`{=html}
-`<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />`{=html}
-`<img src="https://img.shields.io/badge/Object--Oriented%20Programming-6A5ACD?style=for-the-badge" alt="OOP" />`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/OOP-6A5ACD?style=for-the-badge" alt="OOP" />
+  <img src="https://img.shields.io/badge/FastAPI%20Backend-009688?style=for-the-badge" alt="Backend Development" />
 </p>
-```
+
 ### 🤖 Generative AI & LLM Engineering
 
-```{=html}
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs" />`{=html}
-`<img src="https://img.shields.io/badge/Generative%20AI-7B2CBF?style=for-the-badge" alt="Generative AI" />`{=html}
-`<img src="https://img.shields.io/badge/RAG-0A9396?style=for-the-badge" alt="RAG" />`{=html}
-`<img src="https://img.shields.io/badge/Prompt%20Engineering-E76F51?style=for-the-badge" alt="Prompt Engineering" />`{=html}
-`<img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge" alt="Groq API" />`{=html}
-`<img src="https://img.shields.io/badge/ChromaDB-5B4BDB?style=for-the-badge" alt="ChromaDB" />`{=html}
-`<img src="https://img.shields.io/badge/Embeddings-386641?style=for-the-badge" alt="Embeddings" />`{=html}
-`<img src="https://img.shields.io/badge/Semantic%20Search-277DA1?style=for-the-badge" alt="Semantic Search" />`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs" />
+  <img src="https://img.shields.io/badge/Generative%20AI-7B2CBF?style=for-the-badge" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/RAG-0A9396?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-E76F51?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge" alt="Groq API" />
+  <img src="https://img.shields.io/badge/ChromaDB-5B4BDB?style=for-the-badge" alt="ChromaDB" />
+  <img src="https://img.shields.io/badge/Embeddings-386641?style=for-the-badge" alt="Embeddings" />
+  <img src="https://img.shields.io/badge/Semantic%20Search-277DA1?style=for-the-badge" alt="Semantic Search" />
 </p>
-```
+
 ### 🧠 Machine Learning & Data Science
 
-```{=html}
 <p align="center">
-```
-`<a href="https://scikit-learn.org/">`{=html}`<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />`{=html}`</a>`{=html}
-`<a href="https://pandas.pydata.org/">`{=html}`<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />`{=html}`</a>`{=html}
-`<a href="https://numpy.org/">`{=html}`<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />`{=html}`</a>`{=html}
-`<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost" />`{=html}
-`<img src="https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge" alt="LightGBM" />`{=html}
-`<img src="https://img.shields.io/badge/NLP-3A86FF?style=for-the-badge" alt="NLP" />`{=html}
-`<img src="https://img.shields.io/badge/SHAP-6A4C93?style=for-the-badge" alt="SHAP" />`{=html}
-```{=html}
+  <a href="https://scikit-learn.org/">
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  </a>
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  </a>
+  <a href="https://numpy.org/">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  </a>
+  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/NLP-3A86FF?style=for-the-badge" alt="NLP" />
+  <img src="https://img.shields.io/badge/SHAP-6A4C93?style=for-the-badge" alt="SHAP" />
 </p>
-```
-### 📊 Visualization & Data Applications
 
-```{=html}
+### 📊 Data Visualization & Applications
+
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />`{=html}
-`<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />`{=html}
-`<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />`{=html}
-`<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />`{=html}
-`<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />`{=html}
-`<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />
+  <a href="https://plotly.com/">
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  </a>
+  <a href="https://streamlit.io/">
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  </a>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />
 </p>
-```
+
 ### 🔧 Tools, Automation & Integrations
 
-```{=html}
 <p align="center">
-```
-`<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />`{=html}
-`<img src="https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white" alt="Moodle" />`{=html}
-`<img src="https://img.shields.io/badge/PyMuPDF-4B8BBE?style=for-the-badge" alt="PyMuPDF" />`{=html}
-`<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white" alt="Moodle" />
+  <img src="https://img.shields.io/badge/PyMuPDF-4B8BBE?style=for-the-badge" alt="PyMuPDF" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
 </p>
-```
-**Core foundations:** Data Structures & Algorithms · OOP · Feature
-Engineering · Model Training & Evaluation · Cross-Validation ·
-Hyperparameter Tuning · Time-Series Forecasting · Debugging · Problem
-Solving
+
+---
+
+### ⚙️ Core Engineering Foundations
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-264653?style=flat-square" alt="DSA" />
+  <img src="https://img.shields.io/badge/Object--Oriented%20Programming-6A5ACD?style=flat-square" alt="OOP" />
+  <img src="https://img.shields.io/badge/Feature%20Engineering-2A9D8F?style=flat-square" alt="Feature Engineering" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-E76F51?style=flat-square" alt="Model Evaluation" />
+  <img src="https://img.shields.io/badge/Cross--Validation-457B9D?style=flat-square" alt="Cross Validation" />
+  <img src="https://img.shields.io/badge/Hyperparameter%20Tuning-6D597A?style=flat-square" alt="Hyperparameter Tuning" />
+  <img src="https://img.shields.io/badge/Time--Series%20Forecasting-588157?style=flat-square" alt="Time Series Forecasting" />
+  <img src="https://img.shields.io/badge/Debugging%20%26%20Problem%20Solving-495057?style=flat-square" alt="Debugging and Problem Solving" />
+</p>
 
 ------------------------------------------------------------------------
 
