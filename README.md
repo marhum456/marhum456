@@ -21,86 +21,99 @@ transforming data into meaningful insights.
 
 ------------------------------------------------------------------------
 
-## 🎯 Technical Skills
+## 🧰 Tech Stack & Skills
 
-### 🐍 Programming & Software Engineering
+```{=html}
+<p align="center">
+```
+`<strong>`{=html}Technologies I use to build AI-powered applications,
+backend systems, and data-driven solutions`</strong>`{=html}
+```{=html}
+</p>
+```
+### 🐍 Programming & Backend Development
 
--   Python
--   Object-Oriented Programming (OOP)
--   Data Structures & Algorithms
--   Software Engineering Principles
--   Problem Solving and Debugging
+```{=html}
+<p align="center">
+```
+`<a href="https://www.python.org/">`{=html}`<img src="https://skillicons.dev/icons?i=python" height="55" alt="Python" />`{=html}`</a>`{=html}
+`<a href="https://fastapi.tiangolo.com/">`{=html}`<img src="https://skillicons.dev/icons?i=fastapi" height="55" alt="FastAPI" />`{=html}`</a>`{=html}
+`<a href="https://www.mongodb.com/">`{=html}`<img src="https://skillicons.dev/icons?i=mongodb" height="55" alt="MongoDB" />`{=html}`</a>`{=html}
+`<a href="https://git-scm.com/">`{=html}`<img src="https://skillicons.dev/icons?i=git" height="55" alt="Git" />`{=html}`</a>`{=html}
+`<a href="https://github.com/">`{=html}`<img src="https://skillicons.dev/icons?i=github" height="55" alt="GitHub" />`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />`{=html}
+`<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />`{=html}
+`<img src="https://img.shields.io/badge/Object--Oriented%20Programming-6A5ACD?style=for-the-badge" alt="OOP" />`{=html}
+```{=html}
+</p>
+```
+### 🤖 Generative AI & LLM Engineering
 
-### 🤖 Artificial Intelligence & Generative AI
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge" alt="LLMs" />`{=html}
+`<img src="https://img.shields.io/badge/Generative%20AI-7B2CBF?style=for-the-badge" alt="Generative AI" />`{=html}
+`<img src="https://img.shields.io/badge/RAG-0A9396?style=for-the-badge" alt="RAG" />`{=html}
+`<img src="https://img.shields.io/badge/Prompt%20Engineering-E76F51?style=for-the-badge" alt="Prompt Engineering" />`{=html}
+`<img src="https://img.shields.io/badge/Groq%20API-F55036?style=for-the-badge" alt="Groq API" />`{=html}
+`<img src="https://img.shields.io/badge/ChromaDB-5B4BDB?style=for-the-badge" alt="ChromaDB" />`{=html}
+`<img src="https://img.shields.io/badge/Embeddings-386641?style=for-the-badge" alt="Embeddings" />`{=html}
+`<img src="https://img.shields.io/badge/Semantic%20Search-277DA1?style=for-the-badge" alt="Semantic Search" />`{=html}
+```{=html}
+</p>
+```
+### 🧠 Machine Learning & Data Science
 
--   Large Language Models (LLMs)
--   Generative AI
--   Prompt Engineering
--   Retrieval-Augmented Generation (RAG)
--   LLM API Integration
--   Subject-Aware LLM Routing
--   AI-Powered Workflow Development
--   AI-Based Process Automation
+```{=html}
+<p align="center">
+```
+`<a href="https://scikit-learn.org/">`{=html}`<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />`{=html}`</a>`{=html}
+`<a href="https://pandas.pydata.org/">`{=html}`<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />`{=html}`</a>`{=html}
+`<a href="https://numpy.org/">`{=html}`<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />`{=html}`</a>`{=html}
+`<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge" alt="XGBoost" />`{=html}
+`<img src="https://img.shields.io/badge/LightGBM-2E8B57?style=for-the-badge" alt="LightGBM" />`{=html}
+`<img src="https://img.shields.io/badge/NLP-3A86FF?style=for-the-badge" alt="NLP" />`{=html}
+`<img src="https://img.shields.io/badge/SHAP-6A4C93?style=for-the-badge" alt="SHAP" />`{=html}
+```{=html}
+</p>
+```
+### 📊 Visualization & Data Applications
 
-### 🧠 Machine Learning & NLP
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />`{=html}
+`<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" alt="Seaborn" />`{=html}
+`<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />`{=html}
+`<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />`{=html}
+`<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />`{=html}
+`<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" alt="Google Colab" />`{=html}
+```{=html}
+</p>
+```
+### 🔧 Tools, Automation & Integrations
 
--   Scikit-learn
--   XGBoost
--   LightGBM
--   Classification & Regression
--   Predictive Modeling
--   Natural Language Processing (NLP)
--   Sentiment Analysis
--   TF-IDF & Bag-of-Words
--   Text Preprocessing
--   Model Training & Evaluation
--   Cross-Validation
--   Hyperparameter Tuning
--   SHAP Model Interpretability
--   Time-Series Forecasting
-
-### 📚 RAG & Document Processing
-
--   Document and PDF Processing
--   Text Chunking
--   Text Embeddings
--   Semantic Search
--   Vector Databases
--   ChromaDB
--   all-MiniLM-L6-v2
--   PyMuPDF
-
-### ⚙️ Backend & API Development
-
--   FastAPI
--   REST API Development
--   API Integration
--   Backend Application Development
--   Swagger / OpenAPI
--   MongoDB Atlas
--   SQL
-
-### 📊 Data Science & Visualization
-
--   Pandas
--   NumPy
--   Exploratory Data Analysis (EDA)
--   Feature Engineering
--   Statistical Analysis
--   Matplotlib
--   Seaborn
--   Plotly
--   Streamlit
-
-### 🛠️ Tools & Technologies
-
--   Git & GitHub
--   GitHub Actions (CI/CD & Automation)
--   Jupyter Notebook / JupyterLab
--   Google Colab
--   MongoDB Atlas
--   Groq API
--   Moodle LMS Integration
+```{=html}
+<p align="center">
+```
+`<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />`{=html}
+`<img src="https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white" alt="Moodle" />`{=html}
+`<img src="https://img.shields.io/badge/PyMuPDF-4B8BBE?style=for-the-badge" alt="PyMuPDF" />`{=html}
+`<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />`{=html}
+```{=html}
+</p>
+```
+**Core foundations:** Data Structures & Algorithms · OOP · Feature
+Engineering · Model Training & Evaluation · Cross-Validation ·
+Hyperparameter Tuning · Time-Series Forecasting · Debugging · Problem
+Solving
 
 ------------------------------------------------------------------------
 
@@ -273,7 +286,8 @@ I am interested in opportunities involving AI/ML Engineering, Python
 Backend Development, Generative AI, LLMs, and Data Science.
 
 -   **Email:** <muhammadarhum277@gmail.com>
--   **LinkedIn:** [Muhammad  hum](https://www.linkedin.com/in/muhammad-arhum01/)
+-   **LinkedIn:** [Muhammad
+    Arhum](https://www.linkedin.com/in/muhammad-arhum01/)
 -   **GitHub:** [marhum456](https://github.com/marhum456)
 
 ------------------------------------------------------------------------
