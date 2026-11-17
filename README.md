@@ -131,7 +131,7 @@ transforming data into meaningful insights.
 
 ### 🔹 Artificial Intelligence Intern \| OptimusFox
 
-*2026 -- Present*
+*July 2026 -- Present*
 
 -   Develop Python-based backend applications and AI-powered solutions
     using FastAPI.
